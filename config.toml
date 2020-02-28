@@ -1,7 +1,7 @@
-baseurl = "https://example.com/"  # Include trailing slash
-title = "Blog Ferilees"
-theme = "hugo-swift-theme"
-publishDir = "docs"
+baseurl = "https://idt-id.github.io/ferilee/"  # Include trailing slash
+title = "Blog Ferilees"		
+theme = "hugo-swift-theme"	
+publishDir = "docs"		
 author = "Steve Francia"
 copyright = "Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved."
 canonifyurls = true
@@ -10,8 +10,7 @@ paginate = 4
 # comment on delete the following lines 11 ~ 13
 pygmentsCodefences = true
 pygmentsCodefencesGuessSyntax = true
-
-[params]
+[params]				
   # ga_analytics = "" # google analytics ID e.g UA-116386578-1
 
   # ga_verify = "" # google verification code e.g 5jb-rxeBfITeJQKOuUss3ud6FPGTxXkCho-ZN5qlrZg
