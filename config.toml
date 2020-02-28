@@ -1,5 +1,5 @@
 baseurl = "https://idt-id.github.io/ferilee/"  # Include trailing slash
-title = "Blog Ferilees"		
+title = "Blog Ferilee"		
 theme = "hugo-swift-theme"	
 publishDir = "docs"		
 author = "Steve Francia"
