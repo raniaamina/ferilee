@@ -1,4 +1,4 @@
-baseurl = "https://idt-id.github.io/ferilee/"  # Include trailing slash
+baseurl = "feri.netlify.com"  # Include trailing slash
 title = "Blog Ferilee"		
 theme = "hugo-swift-theme"	
 publishDir = "docs"		
